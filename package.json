@@ -1,0 +1,24 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "Model View Controller",
+  "homepage": "https://github.com/harshitasurana/MVC-Architecture#readme",
+  "bugs": {
+    "url": "https://github.com/harshitasurana/MVC-Architecture/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshitasurana/MVC-Architecture.git"
+  },
+  "license": "ISC",
+  "author": "Harshita",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
